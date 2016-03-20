@@ -1,6 +1,6 @@
 package org.axhm3a.java;
 
-public class Main extends MiniJava{
+public class Zeichenkette extends MiniJava{
 
     public static void main(String[] args) {
         //variablen deklaration
