@@ -4,6 +4,10 @@ package org.axhm3a.java;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
+/**
+ * MiniJava wrapper for simple usage of io
+ * @link http://www2.informatik.tu-muenchen.de/lehre/vorlesungen/WS04/info1/MiniJava.java
+ */
 public class MiniJava {
     // textuelle Eingabe
     public static String readString(String text) {
